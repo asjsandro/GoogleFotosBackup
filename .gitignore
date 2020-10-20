@@ -1,0 +1,5 @@
+Photos Backup/
+client_secret_GoogleCloudPlatform.json
+*.pickle
+__pycache__/
+download/
